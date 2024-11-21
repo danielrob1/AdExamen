@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<castillayleon>
+    <provincias>
+        <provincia nombre="Burgos">
+            <poblacion nombre="Burgos"/>
+            <poblacion nombre="Miranda de Ebro"/>
+        </provincia>
+        <provincia nombre="Ávila">
+            <poblacion nombre="Ávila"/>
+            <poblacion nombre="Arévalo"/>
+        </provincia>
+        <provincia nombre="Valladolid">
+            <poblacion nombre="Valladolid"/>
+            <poblacion nombre="Medina del Campo"/>
+        </provincia>
+        <provincia nombre="Soria">
+            <poblacion nombre="Soria"/>
+            <poblacion nombre="Almazán"/>
+        </provincia>
+        <provincia nombre="Zamora">
+            <poblacion nombre="Zamora"/>
+            <poblacion nombre="Benavente"/>
+        </provincia>
+        <provincia nombre="Segovia">
+            <poblacion nombre="Segovia"/>
+            <poblacion nombre="Cuéllar"/>
+        </provincia>
+        <provincia nombre="Salamanca">
+            <poblacion nombre="Salamanca"/>
+            <poblacion nombre="Béjar"/>
+        </provincia>
+        <provincia nombre="Palencia">
+            <poblacion nombre="Palencia"/>
+            <poblacion nombre="Aguilar de Campoo"/>
+        </provincia>
+        <provincia nombre="León">
+            <poblacion nombre="León"/>
+            <poblacion nombre="Ponferrada"/>
+        </provincia>
+    </provincias>
+</castillayleon>
